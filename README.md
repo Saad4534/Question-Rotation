@@ -42,6 +42,7 @@ In this case, we are using 2 seperate regions Singapore and USA
 Project Startup:
 In order to start the project, please run the following commands
 - If you just need to run the project and see how it works, just run the below commands in the terminal of the project directory:
+  -  npm i --save
   -  export NODE_ENV=development
   -  npm start run
   -  The cron job is set at 5 seconds for now in order to view the status of the questions
